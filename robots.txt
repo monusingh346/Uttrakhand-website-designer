@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://monusingh346.github.io/Uttrakhand-website-designer/sitemap.xml
